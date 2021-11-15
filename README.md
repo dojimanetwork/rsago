@@ -1,5 +1,5 @@
 # Golang Threshold Cryptography Library - RSA implementation 
-[![Go Report Card](https://goreportcard.com/badge/github.com/dojimanetwork/rsa-go)](https://goreportcard.com/report/github.com/dojimanetwork/rsa-go) [![Build Status](https://travis-ci.org/niclabs/rsago.svg?branch=master)](https://travis-ci.org/niclabs/rsago) [![GoDoc](https://godoc.org/github.com/niclabs/libtc-rsa?status.svg)](https://godoc.org/github.com/dojimanetwork/rsa-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dojimanetwork/rsago)](https://goreportcard.com/report/github.com/dojimanetwork/rsago) [![Build Status](https://travis-ci.org/niclabs/rsago.svg?branch=master)](https://travis-ci.org/niclabs/rsago) [![GoDoc](https://godoc.org/github.com/niclabs/libtc-rsa?status.svg)](https://godoc.org/github.com/dojimanetwork/rsago)
 
 This library implements the cryptographic algorithms of Victor Shoup's paper [Practical Threshold Signatures](http://www.iacr.org/archive/eurocrypt2000/1807/18070209-new.pdf) in the Golang programming language. 
 
@@ -12,7 +12,7 @@ Due to Golang extensive standard library, this implementation does not have exte
 ### Installing
 
 ```shell
-go get https://github.com/dojimanetwork/rsa-go
+go get https://github.com/dojimanetwork/rsago
 ```
 
 To run the tests you just need to use `go test`:

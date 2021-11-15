@@ -6,7 +6,7 @@ import (
 	"crypto/sha256"
 	"encoding/hex"
 	"fmt"
-	"github.com/dojimanetwork/rsa-go"
+	"github.com/dojimanetwork/rsago"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
